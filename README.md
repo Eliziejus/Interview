@@ -1,4 +1,3 @@
-Projektas pasileičia per xampp. Faila reikia idėti i htdocs. Dariau su Visual Studio naudojau composer.jsom tai reikės instaliuoti composer'i. Tada reikės i mysql susikurti
-lentele kuri saugos vartotojus.  
+The project starts via xampp. The file needs to be placed in htdocs. I did with Visual Studio so need use composer.jsom it will need to install composer. Then you will need to create mysql a table that will protect users.
 
 # Interview
